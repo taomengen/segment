@@ -7,7 +7,7 @@
 #include <map>
 #include <stdio.h>
 #include <time.h>
-#define MaxWordLength 21 // 最大词长字节（即4个汉字）
+#define MaxWordLength 21 // 最大词长字节（即7个汉字）
 
 #define Separator " "    // 词界标记
 #define UTF8_CN_LEN 3    // 汉字的UTF-8编码为3字节
